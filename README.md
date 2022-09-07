@@ -13,17 +13,17 @@
 
 This project is created using HTML and CSS. I have used CSS Positioning and CSS flex-box to build this project, and this project is not fully responsive. In future I will try to make it responive.
 
-## ⚙️ What did I learn by making this project?
+## What did I learn by making this project?
 
 -   learn CSS postioning in detail.
 -   learn to use CSS variables.
 -   learn to use flex-box.
 
-## ⌛ Time taken to finish this project?
+## Time taken to finish this project?
 
 Although this project looks simple and easy but when I started working on it, it took me around 5 hour to finish it.
 
-## 📷 Screenshots
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/79992193/188776482-ec2eff15-fdf3-4720-af23-40c271fc2100.png)
 
