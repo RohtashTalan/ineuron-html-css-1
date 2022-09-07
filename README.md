@@ -9,7 +9,7 @@
 
 ![image](https://img.shields.io/badge/Rohtash-Talan-blue)
 
-[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://fsjs-ineuron-project-01-html-css.netlify.app/)
+[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-1.netlify.app/)
 
 ## About
 
@@ -29,4 +29,4 @@ Although this project looks simple and easy but when I started working on it, it
 
 ![image](./screenshots/Screenshot.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://fsjs-ineuron-project-01-html-css.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-1.netlify.app/)
