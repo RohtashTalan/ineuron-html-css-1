@@ -29,4 +29,4 @@ Although this project looks simple and easy but when I started working on it, it
 
 ![image](./screenshots/Screenshot.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-1.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-20b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-1.netlify.app/)
