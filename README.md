@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)
 ![image](https://img.shields.io/badge/Hitesh%20Choudhry-LOC-brightgreen)
 ![image](https://img.shields.io/badge/HTML-CSS-orange)
-![image](https://img.shields.io/badge/Project-01-blue)
+![image](https://img.shields.io/badge/Project-02-blue)
 
 ![image](https://img.shields.io/badge/BHASKAR-SAHU-blue)
 
