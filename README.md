@@ -1,5 +1,3 @@
-![image](./screenshots/Project-1_-_Full_Stack_Javascript_Web_Development_Course.png)
-
 # Project-1 HTML & CSS Full Stack Javascript Web Development Course
 
 ![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)
@@ -27,6 +25,6 @@ Although this project looks simple and easy but when I started working on it, it
 
 ## 📷 Screenshots
 
-![image](./screenshots/Screenshot.png)
+![image](https://user-images.githubusercontent.com/79992193/188776482-ec2eff15-fdf3-4720-af23-40c271fc2100.png)
 
 [<img src= "https://img.shields.io/badge/PROJCET LINK-20b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-1.netlify.app/)
